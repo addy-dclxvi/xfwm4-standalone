@@ -13,8 +13,8 @@ xfce4-panel &
 ## Bluetooth system tray
 #(sleep 3; blueberry-tray) &
 
-## Set background image using nitrogen
-#(sleep 1; nitrogen --restore) &
+## Set a wallpaper
+xfdesktop &
 
 ## Numlock, probably You need it start automatically
 #numlockx &
@@ -38,7 +38,7 @@ xfce4-panel &
 #(sleep 3; clipit) &
 
 ## XFCE4 Settings daemon
-#xfsettingsd &
+xfsettingsd &
 
 ## Start xscreensaver
 #xscreensaver -no-splash &
