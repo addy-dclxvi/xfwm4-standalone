@@ -1,0 +1,7 @@
+#!/bin/bash
+
+sleep 5
+
+# starting xfwm4 autostart
+chmod +x /home/$USER/.config/xfwm4/autostart
+/home/$USER/.config/xfwm4/autostart

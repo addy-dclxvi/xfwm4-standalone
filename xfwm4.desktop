@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Xfwm
+Comment=Log in using the Xfwm window manager (without a session manager)
+Exec=/usr/bin/xfwm4-session.sh
+Icon=xfwm4
+Type=Application
