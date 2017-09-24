@@ -3,9 +3,11 @@
 # And add more items if You need
 # Don't forget to add ampersand for process those are running in background ;)
 # And also don't forget, make sure You have the package before uncomment a line :D
+# Cheers!
+# Addy
 
-## Xfce4 Panel, usual companion for Xfwm. I use it as default panel
-xfce4-panel &
+## Xfce4 Panel, usual companion for Xfce
+#xfce4-panel &
 
 ## tint2 panel, one of my favourite panel :)
 #tint2 &
